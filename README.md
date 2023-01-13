@@ -1,4 +1,4 @@
-# Churn-Prediction-Model
+# Preventing Customer Churn: A Supervised Learning Approach to Identifying At-Risk Customers and Analyzing Retention Factors
 
 ## Churn-Prediction
 
